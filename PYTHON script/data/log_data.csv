@@ -1,0 +1,6 @@
+file_name,level,message
+app.log,INFO,App started successfully
+app.log,DEBUG,Loading configuration
+app.log,ERROR,Failed to load module X
+app.log,WARN,Low memory detected
+app.log,INFO,User logged in
